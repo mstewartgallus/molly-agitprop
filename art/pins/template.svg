@@ -28,14 +28,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0582793"
-     inkscape:cx="310.40955"
+     inkscape:cx="309.93708"
      inkscape:cy="147.4091"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g38"
+     inkscape:current-layer="layer1"
      showgrid="false" />
   <defs
      id="defs1">
@@ -71,18 +71,6 @@
          inkscape:label="Clip"
          id="use7" />
     </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1">
-      <ellipse
-         style="display:inline;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.81412;stroke-dasharray:none;stroke-opacity:1"
-         id="circle1"
-         cx="19.640165"
-         cy="19.554754"
-         inkscape:label="Clip"
-         rx="20.261435"
-         ry="20.182274" />
-    </clipPath>
     <inkscape:path-effect
        effect="powerclip"
        id="path-effect15"
@@ -101,6 +89,18 @@
          id="path6"
          inkscape:label="Clip" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1">
+      <ellipse
+         style="display:inline;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.81412;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2"
+         cx="19.640163"
+         cy="19.554756"
+         inkscape:label="Clip"
+         rx="20.261435"
+         ry="20.182274" />
+    </clipPath>
   </defs>
   <g
      id="g38"
@@ -110,35 +110,48 @@
     <g
        inkscape:label="Button"
        id="layer1"
-       clip-path="url(#clipPath1)"
+       clip-path="none"
        style="display:inline"
        transform="matrix(1.2536156,0,0,1.2585327,6.1725689,8.2840735)">
-      <rect
-         style="display:inline;fill:#ffffff;stroke-width:2.28772;stroke-dasharray:none"
-         id="rect1"
-         width="40.522869"
-         height="40.364548"
-         x="-0.62127167"
-         y="-0.62751943"
-         inkscape:label="background" />
       <g
-         id="g11"
-         inkscape:label="No"
-         style="display:inline;stroke-width:1.1;stroke-dasharray:none">
-        <ellipse
-           style="display:inline;fill:none;stroke:#000000;stroke-width:6.06654456;stroke-dasharray:none;stroke-opacity:1"
-           id="path1-8"
-           cx="19.635702"
-           cy="19.550289"
-           inkscape:label="Boundary"
-           rx="18.010103"
-           ry="17.930941" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.76419;stroke-dasharray:none;stroke-opacity:1"
-           d="M 38.926937,38.758037 0.35282782,0.35280322"
-           id="path8"
-           inkscape:label="Cross Out" />
+         id="g1"
+         inkscape:label="Button"
+         clip-path="url(#clipPath1)">
+        <rect
+           style="display:inline;fill:#ffffff;stroke-width:2.28772;stroke-dasharray:none"
+           id="rect1"
+           width="40.522869"
+           height="40.364548"
+           x="-0.62127167"
+           y="-0.62751943"
+           inkscape:label="background" />
+        <g
+           id="g11"
+           inkscape:label="No"
+           style="display:inline;stroke-width:1.1;stroke-dasharray:none">
+          <ellipse
+             style="display:inline;fill:none;stroke:#000000;stroke-width:6.06654456;stroke-dasharray:none;stroke-opacity:1"
+             id="path1-8"
+             cx="19.635702"
+             cy="19.550289"
+             inkscape:label="Boundary"
+             rx="18.010103"
+             ry="17.930941" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.76419;stroke-dasharray:none;stroke-opacity:1"
+             d="M 38.926937,38.758037 0.35282782,0.35280322"
+             id="path8"
+             inkscape:label="Cross Out" />
+        </g>
       </g>
+      <ellipse
+         style="display:inline;fill:none;stroke:#646464;stroke-width:1.01109;stroke-dasharray:1.01109, 2.02218;stroke-dashoffset:0.101109;stroke-opacity:1"
+         id="path17"
+         cx="19.630617"
+         cy="19.396223"
+         rx="20.768675"
+         ry="20.687675"
+         inkscape:label="Guide" />
     </g>
     <use
        x="0"
