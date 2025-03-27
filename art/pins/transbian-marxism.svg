@@ -9,7 +9,7 @@
    id="svg1"
    sodipodi:docname="transbian-marxism.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
-   inkscape:export-filename="lesbian-marxism.pdf"
+   inkscape:export-filename="transbian-marxism.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,14 +28,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.4966329"
-     inkscape:cx="227.17661"
-     inkscape:cy="110.24747"
+     inkscape:cx="227.17662"
+     inkscape:cy="110.24748"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1"
+     inkscape:current-layer="layer1"
      showgrid="false" />
   <defs
      id="defs1">
@@ -120,14 +120,14 @@
          style="stroke-width:1.00983;stroke-dasharray:none">
         <path
            fill="#993399"
-           d="M -0.8583785,-2.4045222 H 42.229179 V 41.608279 H -0.8583785 Z"
+           d="M -0.8583785,-2.4045222 H 42.237693 V 41.608279 H -0.8583785 Z"
            id="path1-3"
-           style="stroke-width:1.00983;stroke-dasharray:none;fill:#5bcefa;fill-opacity:1"
+           style="fill:#5bcefa;fill-opacity:1;stroke-width:1.00993;stroke-dasharray:none"
            inkscape:label="Background" />
         <g
            id="g3"
            inkscape:label="Trans"
-           transform="matrix(0.25511811,0,0,0.36220474,14.492517,14.020827)"
+           transform="matrix(0.25511811,0,0,0.32220001,14.492517,14.655904)"
            style="display:inline">
           <rect
              fill="#5bcefa"
@@ -157,7 +157,7 @@
         <g
            id="g2"
            inkscape:label="Emblem"
-           transform="matrix(0.23268879,0,0,0.23177966,16.813052,-8.207219)"
+           transform="matrix(0.21090016,0,0,0.21007613,17.106984,-5.3647485)"
            style="stroke-width:4.31048;stroke-dasharray:none">
           <path
              d="M 11.756215,184.76367 -48.762808,79.709399 H 72.271793 Z"

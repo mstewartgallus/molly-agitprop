@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4.2331172"
-     inkscape:cx="112.21045"
-     inkscape:cy="104.65101"
+     inkscape:zoom="2.9932659"
+     inkscape:cx="123.94489"
+     inkscape:cy="89.868395"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -128,7 +128,7 @@
         <g
            fill="#e82127"
            id="g10"
-           transform="matrix(0.09484164,0,0,0.09484164,6.5330057,9.3717601)"
+           transform="matrix(0.09122474,0,0,0.09122474,6.8176844,10.086721)"
            inkscape:label="Tesla"
            style="display:inline">
           <path
@@ -145,7 +145,7 @@
            inkscape:label="No"
            style="display:inline;stroke-width:1.1;stroke-dasharray:none">
           <ellipse
-             style="display:inline;fill:none;stroke:#000000;stroke-width:6.06654456;stroke-dasharray:none;stroke-opacity:1"
+             style="display:inline;fill:none;stroke:#000000;stroke-width:8.08872608;stroke-dasharray:none;stroke-opacity:1"
              id="path1-8"
              cx="19.635702"
              cy="19.550289"
