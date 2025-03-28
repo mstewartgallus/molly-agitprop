@@ -7,7 +7,7 @@
    viewBox="0 0 210.00042 297.00059"
    version="1.1"
    id="svg1"
-   sodipodi:docname="canada-chauvinism.svg"
+   sodipodi:docname="canada-chauvinism-new.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    inkscape:export-filename="canada-chauvinism.pdf"
    inkscape:export-xdpi="96"
@@ -27,18 +27,27 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0582793"
-     inkscape:cx="309.93708"
-     inkscape:cy="147.4091"
+     inkscape:zoom="1.496633"
+     inkscape:cx="312.70191"
+     inkscape:cy="163.70079"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g11"
+     inkscape:current-layer="layer1"
      showgrid="false" />
   <defs
      id="defs1">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
     <inkscape:path-effect
        effect="powerclip"
        id="path-effect6"
@@ -71,18 +80,6 @@
          inkscape:label="Clip"
          id="use7" />
     </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1">
-      <ellipse
-         style="display:inline;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.81412;stroke-dasharray:none;stroke-opacity:1"
-         id="circle1"
-         cx="19.640165"
-         cy="19.554754"
-         inkscape:label="Clip"
-         rx="20.261435"
-         ry="20.182274" />
-    </clipPath>
     <inkscape:path-effect
        effect="powerclip"
        id="path-effect15"
@@ -101,6 +98,50 @@
          id="path6"
          inkscape:label="Clip" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1">
+      <ellipse
+         style="display:inline;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1.81412;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2"
+         cx="19.640163"
+         cy="19.554756"
+         inkscape:label="Clip"
+         rx="20.261435"
+         ry="20.182274" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6-7">
+      <path
+         style="display:none;fill:#808080;stroke-width:2.38506"
+         d="M 11.903688,52.499434 24.043743,-1.5911012 41.773834,33.198624 Z"
+         id="path6-5"
+         inkscape:label="Clip" />
+      <path
+         id="lpe_path-effect6"
+         style="display:block;fill:#808080;stroke-width:2.38506"
+         class="powerclip"
+         d="M -13.647759,-1.9799445 H 66.098874 V 44.728807 H -13.647759 Z M 11.903688,52.499434 41.773834,33.198624 24.043743,-1.5911012 Z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect6-3"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         style="display:block;fill:#008000;stroke-width:8.04762"
+         d="M 24.825989,-3.2542561 13.596411,44.799654 H 50.418983 V -3.554593 Z"
+         id="path11"
+         inkscape:label="Clip" />
+    </clipPath>
   </defs>
   <g
      id="g38"
@@ -110,52 +151,65 @@
     <g
        inkscape:label="Button"
        id="layer1"
-       clip-path="url(#clipPath1)"
+       clip-path="none"
        style="display:inline"
        transform="matrix(1.2536156,0,0,1.2585327,6.1725689,8.2840735)">
-      <rect
-         style="display:inline;fill:#ffffff;stroke-width:2.28772;stroke-dasharray:none"
-         id="rect1"
-         width="40.522869"
-         height="40.364548"
-         x="-0.62127167"
-         y="-0.62751943"
-         inkscape:label="background" />
       <g
-         id="g11"
-         inkscape:label="No"
-         style="display:inline;stroke-width:1.1;stroke-dasharray:none">
+         id="g1"
+         inkscape:label="Button"
+         clip-path="url(#clipPath1)">
+        <rect
+           style="display:inline;fill:#ffffff;stroke-width:2.28772;stroke-dasharray:none"
+           id="rect1"
+           width="40.522869"
+           height="40.364548"
+           x="-0.62127167"
+           y="-0.62751943"
+           inkscape:label="background" />
         <g
-           id="g8"
+           id="g8-3"
            inkscape:label="Flag"
-           transform="matrix(0.56382748,0,0,0.53253074,5.0952475,5.8773932)"
-           style="display:inline">
+           transform="matrix(0.56382748,0,0,0.53253074,4.879995,6.1836047)"
+           style="display:inline;stroke-width:1.1;stroke-dasharray:none">
           <path
              fill="#d52b1e"
              d="M -13.759271,6.1461547 H 6.0845165 l 0.818556,0.818556 H 44.953539 l 0.818555,-0.818556 H 65.615881 V 45.833731 H 45.772094 L 44.953539,45.015175 H 6.9030735 l -0.818557,0.818556 H -13.759271 Z"
-             id="path1-6"
+             id="path1-6-5"
              style="stroke-width:0.00826825"
              inkscape:label="path1-6" />
           <path
              fill="#ffffff"
              d="M 6.2068405,6.1461547 H 45.894418 V 45.833731 H 6.2068405 Z M 26.794771,42.77448 26.4227,35.638985 a 0.7854833,0.7854833 0 0 1 0.917776,-0.810288 l 7.102422,1.248505 -0.959116,-2.645839 a 0.5374359,0.5374359 0 0 1 0.165365,-0.603582 l 7.780417,-6.300402 -1.752868,-0.818557 a 0.5374359,0.5374359 0 0 1 -0.28112,-0.653191 l 1.537895,-4.729436 -4.48139,0.950848 A 0.5374359,0.5374359 0 0 1 35.848499,20.96285 l -0.868165,-2.042257 -3.497468,3.753784 a 0.5374359,0.5374359 0 0 1 -0.917775,-0.47129 l 1.686722,-8.698194 -2.703716,1.562698 A 0.5374359,0.5374359 0 0 1 28.795686,14.844348 L 26.050629,9.4534527 23.305572,14.844348 a 0.5374359,0.5374359 0 0 1 -0.75241,0.223243 l -2.703716,-1.562698 1.686721,8.698194 a 0.5374359,0.5374359 0 0 1 -0.917775,0.47129 l -3.497467,-3.753784 -0.868166,2.042257 a 0.5374359,0.5374359 0 0 1 -0.603582,0.314193 l -4.481389,-0.950848 1.537894,4.729436 a 0.5374359,0.5374359 0 0 1 -0.28112,0.653192 l -1.752868,0.818556 7.780418,6.300403 a 0.5374359,0.5374359 0 0 1 0.165365,0.603581 l -0.959117,2.645839 7.102423,-1.248505 a 0.7854833,0.7854833 0 0 1 0.917775,0.810288 l -0.372071,7.135495 z"
-             id="path2"
+             id="path2-6"
              style="stroke-width:0.00826825" />
         </g>
-        <ellipse
-           style="display:inline;fill:none;stroke:#000000;stroke-width:6.06654456;stroke-dasharray:none;stroke-opacity:1"
-           id="path1-8"
-           cx="19.635702"
-           cy="19.550289"
-           inkscape:label="Boundary"
-           rx="18.010103"
-           ry="17.930941" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.76419;stroke-dasharray:none;stroke-opacity:1"
-           d="M 38.926937,38.758037 0.35282782,0.35280322"
-           id="path8"
-           inkscape:label="Cross Out" />
+        <g
+           id="g11"
+           inkscape:label="No"
+           style="display:inline;stroke-width:1.1;stroke-dasharray:none">
+          <ellipse
+             style="display:inline;fill:none;stroke:#000000;stroke-width:8.08873;stroke-dasharray:none;stroke-opacity:1"
+             id="path1-8"
+             cx="19.635702"
+             cy="19.550289"
+             inkscape:label="Boundary"
+             rx="18.010103"
+             ry="17.930941" />
+          <path
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.76419;stroke-dasharray:none;stroke-opacity:1"
+             d="M 38.926937,38.758037 0.35282782,0.35280322"
+             id="path8"
+             inkscape:label="Cross Out" />
+        </g>
       </g>
+      <ellipse
+         style="display:inline;fill:none;stroke:#646464;stroke-width:1.01109;stroke-dasharray:1.01109, 2.02218;stroke-dashoffset:0.101109;stroke-opacity:1"
+         id="path17"
+         cx="19.634897"
+         cy="19.559103"
+         rx="20.768675"
+         ry="20.687675"
+         inkscape:label="Guide" />
     </g>
     <use
        x="0"
