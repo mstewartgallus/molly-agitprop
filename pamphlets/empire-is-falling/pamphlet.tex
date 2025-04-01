@@ -1,0 +1,127 @@
+% Formatting
+\documentclass[10pt, oneside, a5paper]{article}
+
+%% Fixers
+\usepackage{fontspec}
+\usepackage{realscripts}
+\usepackage{xunicode}
+\usepackage{polyglossia}
+
+\usepackage[]{microtype}
+\usepackage[]{geometry}
+\geometry{a5paper}
+%% \usepackage[]{geometry}
+\usepackage[english]{isodate}
+
+% Packages
+\usepackage{lastpage}
+%% \usepackage{scrlayer-scrpage}
+\usepackage{enumitem}
+
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{multicol}
+\usepackage{newunicodechar}
+
+%Load Last Fixers
+\usepackage{hyperref}
+
+% Settings
+
+\setdefaultlanguage{english}
+\setotherlanguage{latin}
+
+\setmainfont{Latin Modern Roman}[Ligatures=TeX,Fractions=On]
+\setsansfont{Latin Modern Sans}[Ligatures=TeX,Fractions=On]
+\setmonofont{Latin Modern Mono}[Ligatures=TeX,Fractions=On]
+
+\hypersetup{bookmarksopen=true,colorlinks=true,allcolors=blue}
+
+\linespread{1.00625}
+\showboxdepth=\maxdimen
+\showboxbreadth=\maxdimen
+
+\setlist{left=\parindent, itemsep=0.03em}
+
+%% \KOMAoption{parskip}{no}
+%% \setlength{\parindent}{0pt}
+
+\setcounter{secnumdepth}{0}
+
+\pagestyle{empty}
+
+% Symbol
+\usepackage{tikz}
+\usetikzlibrary{svg.path}
+
+% SVG path from Sarang:
+% https://upload.wikimedia.org/wikipedia/commons/a/ac/U%2B262D.svg
+\newcommand*{\hamsic}{%
+  \begingroup
+    \settoheight{\dimen0 }{H}%
+    \resizebox{!}{\dimen0 }{%
+      \tikz\fill svg[yscale=-1]{%
+        M67,80l13,19L130,65L108,52z%
+        M54,103A60,60 0 1,0 55,23A50,50 0 1,1 55,101z%
+        m0,0L14,160l19,10L64,110z%
+        M95,87l46,79l17,-12L108,79z%
+      };%
+    }%
+  \endgroup
+}
+
+\newcommand*{\httpref}[1]{\href{https://#1}{\nolinkurl{#1}}}
+  
+\newunicodechar{☭}{\hamsic}
+
+\setlist{label=☭}
+
+\author{}
+\date{}
+
+\begin{document}
+
+{%
+  \raggedright{}
+  {\bfseries{}\LARGE{}Evil Billionaires}\\
+  Pandemic! Conspiracy! Martians?%
+}
+
+\bigskip{}
+
+The great recession, COVID-19, housing and now Donald Trump. What is
+going on?
+
+\section*{Empire is Falling}
+
+For a brief movement after World War II, a few ``normals'' in the
+imperial core could make it. These privileges came at the expense of
+billions.
+
+We were the house slaves of Statesian empire, and the periphery
+nations were the field slaves. All systems built on oppression fall
+apart. The system decays, and the oppressed rebel.
+
+Civil rights, Vietnam, Afghanistan, Gaza. On so many fronts, the
+empire lost and is losing.
+
+\section*{They Won't Save Us}
+
+Do we house slaves join the field slaves in their struggle, or do we
+fall with our masters?  The fascists have chosen their side, have you
+chosen yours?
+
+It's time to stop voting {NDP}, and it's time to start organizing
+outside the capitalist state.  We need real change, and the servants
+of empire won't give us that.
+
+\section*{Workers Unite}
+
+We workers must solve the issues the capitalists and their servants
+can't. The fascists are coming, and there is no time left to
+dawdle. Organize. Agitate. Fight.
+
+ %% Capitalism is war, division and theft. Socialism can
+%% bring us peace, reparations and liberty; but we must work for it. 
+
+\end{document}
