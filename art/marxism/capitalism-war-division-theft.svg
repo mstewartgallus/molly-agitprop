@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2"
-     inkscape:cx="107"
-     inkscape:cy="145"
+     inkscape:cx="107.25"
+     inkscape:cy="183"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -36,7 +36,14 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffffff"
-     showgrid="false" />
+     showgrid="false"
+     showguides="true">
+    <sodipodi:guide
+       position="42.201041,97.684163"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <rect
@@ -159,9 +166,9 @@
        xml:space="preserve"
        transform="matrix(0.88697757,0,0,0.88697757,5.148263,-79.203936)"
        id="text3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#008000;stroke-width:38.4"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.1;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#008000;stroke:#002c00;stroke-width:1.12742;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="9.5"
          y="172.43201"
-         id="tspan1">$</tspan></text>
+         id="tspan4">$</tspan></text>
   </g>
 </svg>
