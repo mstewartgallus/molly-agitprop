@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2.4000001in"
+   height="1.3in"
+   viewBox="0 0 60.960002 33.019997"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="psychiatry-is-violence.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0460067"
+     inkscape:cx="93.352577"
+     inkscape:cy="142.22827"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="108.25209"
+       y="137.41544"
+       width="70.196793"
+       height="75.555321"
+       id="rect4" />
+    <rect
+       x="18.18457"
+       y="171.61366"
+       width="165.32077"
+       height="62.134644"
+       id="rect2" />
+    <rect
+       x="28.947191"
+       y="79.15477"
+       width="280.40021"
+       height="54.189392"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.2673805,-6.0725319)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.19779761,0,0,0.19779761,4.7473976,-6.2352762)"
+       id="text1"
+       style="font-weight:bold;font-size:28.5365px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:'Monospace Bold';white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000;stroke-width:0.377953;stroke-linejoin:round"
+       inkscape:label="title"><tspan
+         x="28.947266"
+         y="102.97871"
+         id="tspan5"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Monospace"
+           id="tspan4">smash the psyche</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.19779761,0,0,0.19779761,7.6501357,-13.880038)"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.9694px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000;stroke-width:0.377953;stroke-linejoin:round"
+       inkscape:label="quip"><tspan
+         x="18.183594"
+         y="192.45961"
+         id="tspan6">psychiatry
+</tspan><tspan
+         x="18.183594"
+         y="219.92595"
+         id="tspan7">is violence</tspan></text>
+    <g
+       id="g3"
+       inkscape:label="RX"
+       transform="translate(0.52916663,-1.5875)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.1;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#000000;stroke-width:0.213317;stroke-linejoin:round"
+         x="46.377369"
+         y="37.006424"
+         id="text3"
+         inkscape:label="R"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif';stroke-width:0.213317"
+           x="46.377369"
+           y="37.006424">℞</tspan></text>
+    </g>
+  </g>
+</svg>
